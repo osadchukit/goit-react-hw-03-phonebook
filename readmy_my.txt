@@ -61,3 +61,4 @@ npm install --save prop-types
 npm i @emotion/styled @emotion/react
 npm i nanoid
 npm install formik --save
+npm install yup --save
